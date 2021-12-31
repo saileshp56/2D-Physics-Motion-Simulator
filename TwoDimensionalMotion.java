@@ -1,4 +1,4 @@
-package twodmotion; //I do not have a website, this is just what I named the package
+package twodmotion; //At the time of writing, I do not have a website, this is just what I named the package
 
 import java.io.File;
 import java.io.IOException;
