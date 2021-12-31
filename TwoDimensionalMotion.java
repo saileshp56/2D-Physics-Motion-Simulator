@@ -1,4 +1,4 @@
-package ICS4U;
+package twodmotion;
 
 import java.io.File;
 import java.io.IOException;
